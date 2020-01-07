@@ -1,0 +1,26 @@
+ABOUT KWOC:
+KWOC is a five week long online programme aimed at helping those 
+students who are new to Open Source Programming 
+and also preparing them for events like GSOC.
+SELECTING PROJECTS:
+There was a large variety of projects available.I was used to a bit of Competive Programming 
+and so I chose the project Competetive Programming ,which is a repository containing implementations 
+of algoritms and problems in as many languages as possible,to help one refer whenever one is stuck on a problem.
+ABOUT P.R.:
+P.R. 1:
+My first P.R. was on the implementation of Data Structure Tries
+P.R. 2:
+My second P.R. was on the the method of swapping two numbers without using any third variable,
+just by using the bitwise operation XOR.
+P.R. 3:
+My third P.R. was on the problem of Matrix Chain Multiplication.The aim was to find the position of the parentheses
+such that the multiplication of N no. of matrices require least number of scalar operations.The problem was solved
+using Dynamic Programming
+
+All the above were done using C++
+
+P.R. 4:
+My fourth P.R. was written in python and was a implementation of Count Sort
+
+Conclusion:It was really constructive use of the winter holidays.I got to know about using Github
+and contributed in a Project aimed at helping people facing trouble while programming
